@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-PT">
+  <head>
+     
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+ 
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>DAWE - BOOKS</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/fontawesome-all.min.css" rel="stylesheet">
+
+
+    <!-- Custom styles for this template -->
+    <link href="pricing.css" rel="stylesheet">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/solid.js" integrity="sha384-+Ga2s7YBbhOD6nie0DzrZpJes+b2K1xkpKxTFFcx59QmVPaSA8c7pycsNaFwUK6l" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js" integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
+    <script src="dist/js/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.js"></script>
+    <style type="text/css">
+        #tbResultado{
+        font-size: 12px;
+        
+        font-family: Verdana,Helvetica, sans-serif;
+        }
+    </style>
+
+  </head>
+
+  <body>
