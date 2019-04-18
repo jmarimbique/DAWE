@@ -5,7 +5,7 @@ session_start();
 // If session variable is not set it will redirect to login page
 if(!isset($_SESSION['username']) || empty($_SESSION['username'])){
   header("location: login.php");
-  //echo('<meta http-equiv="refresh" content="0;URL=login.php" />');
+  echo('<meta http-equiv="refresh" content="0;URL=login.php" />');
   exit;
 }
 else{
